@@ -9,7 +9,6 @@ namespace UnicornCustomer.Database
     public class Customer
     {
 
-
             public bool Save(string FirstName, string LastName, string Nationality, int Age)
             {
                 var connstring = @"Server = .\SQLEXPRESS; Initial Catalog = Test;UserName = sa;password = admin";

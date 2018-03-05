@@ -11,9 +11,7 @@ namespace UnitTesting
         {
             var db = new UnicornCustomer.Database.Customer();
 
-           // assert
-            
-
+            Assert.IsNotNull(db);
         }
     }
 }
