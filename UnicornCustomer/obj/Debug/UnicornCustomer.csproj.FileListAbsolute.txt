@@ -47,6 +47,7 @@ C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.cs
 C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.dll
 C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\ApplicationInsights.config
 C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll.config
 C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll
@@ -96,6 +97,8 @@ C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\D
 C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.dll
 C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.pdb
 =======
+=======
+>>>>>>> c574119b197df9c946fd532656f13e3b1848fb07
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\ApplicationInsights.config
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll.config
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll
@@ -144,4 +147,7 @@ C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.csproj.CoreCompileInputs.cache
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.dll
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.pdb
+<<<<<<< HEAD
+>>>>>>> c574119b197df9c946fd532656f13e3b1848fb07
+=======
 >>>>>>> c574119b197df9c946fd532656f13e3b1848fb07
