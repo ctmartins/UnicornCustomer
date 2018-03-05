@@ -46,6 +46,59 @@ C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.cs
 C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.csproj.CoreCompileInputs.cache
 C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.dll
 C:\Development\Demo\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.pdb
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\ApplicationInsights.config
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll.config
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.pdb
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Antlr3.Runtime.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.Web.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Newtonsoft.Json.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Net.Http.Formatting.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Helpers.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Http.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Http.WebHost.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Mvc.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Optimization.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Razor.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.WebPages.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\WebGrease.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Newtonsoft.Json.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Net.Http.Formatting.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Helpers.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Http.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Http.WebHost.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Mvc.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Optimization.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.Razor.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.WebPages.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Antlr3.Runtime.pdb
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\Microsoft.AI.Web.xml
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.csprojResolveAssemblyReference.cache
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.dll
+C:\Users\Catarina Martins\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.pdb
+=======
+=======
+>>>>>>> c574119b197df9c946fd532656f13e3b1848fb07
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\ApplicationInsights.config
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll.config
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\bin\UnicornCustomer.dll
@@ -94,3 +147,7 @@ C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.csproj.CoreCompileInputs.cache
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.dll
 C:\Users\Antony Ardon\Documents\GitHub\UnicornCustomer\UnicornCustomer\obj\Debug\UnicornCustomer.pdb
+<<<<<<< HEAD
+>>>>>>> c574119b197df9c946fd532656f13e3b1848fb07
+=======
+>>>>>>> c574119b197df9c946fd532656f13e3b1848fb07
