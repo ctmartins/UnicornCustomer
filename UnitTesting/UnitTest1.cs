@@ -22,7 +22,7 @@ namespace UnitTesting
         public void TestDatabaseSave()
         {
             var db = new UnicornCustomer.Database.Customer();
-            db.Save("Jim", "Neutron", "American",22);
+            db.Save("Tom", "Thumb", "Greek", 12);
         }
     }
 }
