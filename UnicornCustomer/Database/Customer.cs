@@ -11,8 +11,7 @@ namespace UnicornCustomer.Database
 
             public bool Save(string FirstName, string LastName, string Nationality, int Age)
             {
-                var connstring = @"Server = .\SQLEXPRESS; Initial Catalog = Test;UserName = sa;password = admin";
-
+                var connstring = @"Data Source= .\SQLEXPRESS; Initial Catalog = test;User Id=sa;Password = admin";
                 using (SqlConnection openCon = new SqlConnection(connstring))
                 {
                     var ssql = "insert into dbo.Customer"
@@ -21,6 +20,8 @@ namespace UnicornCustomer.Database
 
                     using (SqlCommand sqlCommand = new SqlCommand(ssql))
                     {
+                        sqlCommand.Connection = openCon;
+                        openCon.Open();
                         sqlCommand.Parameters.AddWithValue("@FirstName", FirstName);
                         sqlCommand.Parameters.AddWithValue("@LastName", LastName);
                         sqlCommand.Parameters.AddWithValue("@Nationality", Nationality);
