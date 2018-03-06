@@ -11,9 +11,18 @@ namespace UnitTesting
         {
             var db = new UnicornCustomer.Database.Customer();
 
-           // assert
-            
+            Assert.IsNotNull(db);
+        }
+    }
 
+    [TestClass]
+    public class UnitTest2
+    {
+        [TestMethod]
+        public void TestDatabaseSave()
+        {
+            var db = new UnicornCustomer.Database.Customer();
+            db.Save("Tom", "Thumb", "Greek", 12);
         }
     }
 }
